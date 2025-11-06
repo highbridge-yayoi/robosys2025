@@ -2,7 +2,7 @@
 2025 create in University class
 
 ## commands
-![test](https://github.com/highbridge-yayoi/robosys2025/tree/main/.github/workflows/test.yml/badge.svg)
+![test](https://github.com/highbridge-yayoi/robosys2025/blob/main/.github/workflows/test.yml/badge.svg)
 
 ## HOW TO USE
 - down load
